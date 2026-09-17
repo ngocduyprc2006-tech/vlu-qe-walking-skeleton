@@ -1,0 +1,12 @@
+{
+  "name": "walking-skeleton-lab",
+  "version": "1.0.0",
+  "description": "Simple login with Jest unit test",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
